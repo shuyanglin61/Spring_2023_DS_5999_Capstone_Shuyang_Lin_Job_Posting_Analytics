@@ -5,6 +5,7 @@
 ## Member
 
 > Student: Shuyang Lin
+
 > Instructor: Prof. Peter Haslag
 
 ## Background
