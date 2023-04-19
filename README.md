@@ -20,6 +20,8 @@ This is a repo for the capstone project *Job Posting Insights: Text Analytics & 
 
 [Pairwise Similarities](https://www.dropbox.com/t/UHflGOvW8sRNqRbb)
 
+[Cluster Labels](https://www.dropbox.com/t/l5kdsA8q2hLmzaKt)
+
 ## Executive Summary
 This capstone project aims to examine the applicability of text analytics to describe the pattern of companies in the job demand market. Distinguishing itself from prior research, this study uniquely combines elements of text analytics, company and industry perspectives on the job market, and a macro-level examination of employment trends.  A large dataset containing 607,795 rows of job descriptions from various companies and years was utilized. The analytics process includes the following steps: data cleaning, vectorizing, dimensionality reduction, clustering, visualization, topic modeling, and similarity score calculation. The output consists of two datasets: one with cluster labels for each company in a given year, representing the type of job demand, and another with pairwise cosine similarity scores for comparing job demands between companies in the same year or the same company across different years.
 
