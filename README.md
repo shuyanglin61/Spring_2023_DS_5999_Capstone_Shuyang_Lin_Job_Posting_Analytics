@@ -12,6 +12,10 @@
 
 This is a repo for the capstone project *Job Posting Insights: Text Analytics & Firm Categorization* in Spring 2023 at Vanderbilt University, Data Science Institute.
 
+## Process
+
+![pipeline](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/plots/pipeline.png)
+
 ## Related Files
 
 [Source Code](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Capstone_source_code.ipynb) *Run on Google Colab.*
