@@ -14,13 +14,13 @@ This is a repo for the capstone project *Job Posting Insights: Text Analytics & 
 
 ## Related Files
 
-[Source Code](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Capstone_source_code.ipynb) Run on Google Colab
+[Source Code](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Capstone_source_code.ipynb) *Run on Google Colab.*
 
-[Final Report](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Report.docx)
+[Final Report](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Report.docx) *See the full report here.*
 
 [Blog Post Draft](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Blog%20Post.docx)
 
-[Final Presentation Slides](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Presentation%20Slides.pdf)
+[Final Presentation Slides](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Presentation%20Slides.pdf) *See the key elements here.*
 
 [Pairwise Similarities](https://www.dropbox.com/t/UHflGOvW8sRNqRbb)
 
