@@ -16,7 +16,11 @@ This is a repo for the capstone project *Job Posting Insights: Text Analytics & 
 
 [Source Code](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Capstone_source_code.ipynb) Run on Google Colab
 
-[Final Presentation Draft](https://docs.google.com/presentation/d/14QtMwKfsEuDOp8-7WoKooF17Hm4MAoXvUuG9pAdtLS0/edit?usp=sharing)
+[Final Report](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Report.docx)
+
+[Blog Post Draft](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Blog%20Post.docx)
+
+[Final Presentation Slides](https://github.com/vandylins19/Spring_2023_DS_5999_Capstone_Shuyang_Lin_Job_Posting_Analytics/blob/main/Final%20Presentation%20Slides.pdf)
 
 [Pairwise Similarities](https://www.dropbox.com/t/UHflGOvW8sRNqRbb)
 
